@@ -1,0 +1,100 @@
+/* Start welcome css */
+    .wel{
+      padding-top:1px;
+      border-radius: 100px;
+      text-align: center;
+      font-family: 'Poppins', sans-serif;
+      font-size:60px;
+      }
+      #sop{
+        padding-bottom: 30px;
+        border-radius: 100px;
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+        font-size:60px
+
+      }
+    
+      .wC{
+        color:#12699c; 
+        }
+
+      .wC:hover{
+          color: rgb(17, 197, 252);
+        }
+
+      .sj{
+        color:rgb(237, 8, 8); 
+      }
+
+      .sj:hover{
+        color:rgb(17, 197, 252);
+      }
+
+      .bd{
+        color: #409d10;
+      }
+
+      .bd:hover{
+        color:rgb(17, 197, 252);
+      }
+
+/* End welcome css */
+
+ul,li{
+  padding-left: 90px;
+  padding-right: 100px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  list-style: none;
+  display: inline-flex;
+}
+
+ul,li,a:hover{
+  color: rgb(255, 11, 11);
+}
+
+ul,li,a{
+  background-color: rgb(207, 241, 14);
+  border-radius: 5px;;
+}
+
+a{
+  font-size:16px;
+  color: blue;
+  text-decoration: none;
+}
+.img{
+  text-align: center;
+}
+img{
+  background-color: antiquewhite;
+  padding: 3px;
+  border-radius:20px;
+}
+.g{
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-size:20px;
+}
+.inm{
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+.hr{
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-size:20px;
+}
+/* Start contact page css */
+/* ul,li{
+  padding-left: 90px;
+  padding-right: 100px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  list-style: none;
+  display: inline-flex;
+} */
+/* Start contact page css */
+
